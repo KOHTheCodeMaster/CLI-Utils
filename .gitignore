@@ -1,0 +1,9 @@
+/.idea/
+/.gradle/
+/build/
+/out/production/
+
+/Empty-Dir-Cleaner/.gradle/
+/Empty-Dir-Cleaner/build/
+/Empty-Dir-Cleaner/gradle/
+/Empty-Dir-Cleaner/out/production/

@@ -1,0 +1,13 @@
+
+Date Created  : 24th November 2K19, 01:25 PM..!!
+Last Modified : 24th November 2K19, 01:25 PM..!!
+
+Project Title : Clean-Empty-Dirs
+
+Change Log:
+
+Init-Commit [Stable]
+1. EmptyDirCleaner is ready to be used as a Java based CLI-API to clean Empty Directories for
+   given source Directory & boolean value for it should delete empty dirs. immediately when found
+2. EDCApp could be used as the wrapper with User-friendly inputs to easily clean empty dirs.
+3. Added Java Docs.
