@@ -1,8 +1,8 @@
 package edc;
 
-import dev.koh.stdlib.utils.KOHStringUtil;
-import dev.koh.stdlib.utils.MyTimer;
-import dev.koh.stdlib.utils.enums.StringOptions;
+import stdlib.utils.KOHStringUtil;
+import stdlib.utils.MyTimer;
+import stdlib.utils.enums.StringOptions;
 
 import java.io.File;
 

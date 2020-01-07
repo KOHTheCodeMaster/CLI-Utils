@@ -1,2 +1,5 @@
 rootProject.name = 'CLI-Utils'
+include 'TheDataShredderCLI'
+//include 'Empty-Dir-Cleaner'
+include 'TheDataShredder'
 

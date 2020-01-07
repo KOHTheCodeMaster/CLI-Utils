@@ -1,7 +1,7 @@
 package edc;
 
 import com.google.gson.Gson;
-import dev.koh.stdlib.utils.KOHFilesUtil;
+import stdlib.utils.KOHFilesUtil;
 
 import java.io.File;
 import java.io.IOException;
